@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.blacks,
+.yellows {
+    font-size: 24px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.blacks {
+    background-color: black;
+    color: white;
+}
+
+.yellows {
+    background-color: yellow;
+}
